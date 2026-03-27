@@ -23,7 +23,7 @@
 
 * 🛡️ Detects malicious/phishing URLs using logic-based filtering
 * 🧠 Built during HackJKLU pre-hackathon
-* 🔗 https://github.com/PrimeKartik
+* 🔗 [https://github.com/PrimeKartik](https://primekartik-phishwall.hf.space)
 
 ---
 
