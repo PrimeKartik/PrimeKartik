@@ -23,7 +23,7 @@
 
 * 🛡️ Detects malicious/phishing URLs using logic-based filtering
 * 🧠 Built during HackJKLU pre-hackathon
-* 🔗 [https://github.com/PrimeKartik](https://primekartik-phishwall.hf.space)
+* 🔗 [https://github.com/PrimeKartik/PhisWall](https://primekartik-phishwall.hf.space)
 
 ---
 
@@ -31,7 +31,7 @@
 
 * 🎯 Interactive game built during a game jam
 * 🎨 Focused on creativity and gameplay mechanics
-* 🔗 https://github.com/PrimeKartik
+* 🔗 https://github.com/PrimeKartik/house-escape-game
 
 ---
 
@@ -61,15 +61,6 @@
 * 🥇 Winner of coding competition at **JK Lakshmipat University**
 * 🎮 Participated in **Rajasthan Digifest 2026 Game Jam**
 * 💻 Built Phishing Detector in **HackJKLU pre-hackathon**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrimeKartik&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeKartik&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
