@@ -17,13 +17,33 @@
 
 ---
 
+## 🚀 Currently Working On
+
+* 📚 Daily DSA practice on CodeChef
+* 🌐 Building personal portfolio website
+* ⚡ Improving problem-solving speed & consistency
+
+---
+
+## 🧠 Competitive Programming
+
+* 🔥 Solving problems daily on CodeChef
+* 📈 Building strong DSA foundation
+* 📂 Maintaining structured solutions repository
+
+👉 [View CodeChef Solutions Repo](https://github.com/PrimeKartik/codechef-solutions)
+
+---
+
 ## 🚀 Projects
 
 ### 🔐 Phishing URL Detector (PhishWall)
 
 * 🛡️ Detects malicious/phishing URLs using logic-based filtering
 * 🧠 Built during HackJKLU pre-hackathon
-* 🔗 [https://github.com/PrimeKartik/PhisWall](https://primekartik-phishwall.hf.space)
+
+🔗 [Live Demo](https://primekartik-phishwall.hf.space)
+🔗 [GitHub Repo](https://github.com/PrimeKartik/PhishWall)
 
 ---
 
@@ -31,36 +51,46 @@
 
 * 🎯 Interactive game built during a game jam
 * 🎨 Focused on creativity and gameplay mechanics
-* 🔗 https://github.com/PrimeKartik/house-escape-game
+
+🔗 [GitHub Repo](https://github.com/PrimeKartik/house-escape-game)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+C • Python • JavaScript
 
 ### 🌐 Web Development
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+HTML • CSS • React
 
 ### ⚙️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+Git • GitHub • VS Code
 
 ---
 
 ## 🏆 Achievements
 
 * 🥇 Winner of coding competition at **JK Lakshmipat University**
-* 🎮 Participated in **Rajasthan Digifest 2026 Game Jam**
+* 🎮 Participated in **Rajasthan Digifest Game Jam**
 * 💻 Built Phishing Detector in **HackJKLU pre-hackathon**
+
+---
+
+## 🌐 CodeChef Profile
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Kartik__14saini-brown?style=for-the-badge\&logo=codechef)](https://www.codechef.com/users/Kartik_14saini)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrimeKartik&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
@@ -96,18 +126,10 @@
   <b>“Code. Build. Break. Learn. Repeat.”</b>
 </p>
 
+---
 
-<!--
-**PrimeKartik/PrimeKartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Philosophy
 
-Here are some ideas to get you started:
+> Consistency + Discipline + Practice = Long-term Success 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
